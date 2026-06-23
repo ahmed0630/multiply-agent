@@ -10,8 +10,4 @@ langchain-community
 langchain-groq
 tavily-python
 streamlit
-google-cloud-speech 
-pyaudio 
-sounddevice 
-soundfile 
 numpy
