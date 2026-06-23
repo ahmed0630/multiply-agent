@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 
-const API = "http://localhost:8000";
+const API = "https://lobster-app-9qdmi.ondigitalocean.app/api";
 
 async function post(path, body) {
   const res = await fetch(`${API}${path}`, {
